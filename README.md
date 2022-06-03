@@ -14,10 +14,9 @@
 </br>
 
 # Live Website
+https://jeongholee21.github.io/work-day-scheduler/index.html
 </br>
 
-# ScreenShot
-</br>
 
 ## User Story
 ```
